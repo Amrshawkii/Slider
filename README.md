@@ -1,0 +1,2 @@
+# Slider
+JavaScript templet modes
